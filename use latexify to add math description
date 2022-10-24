@@ -1,3 +1,4 @@
+!pip install latexify-py
 import latexify
 import math
 
